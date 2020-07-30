@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63ec39a0-1fb0-4530-881f-20688380936c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZELMxeHRFfWYM6J4GdqYIwhRPs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Área de Trabalho" />
+    <property name="settings.editor.selected.configurable" value="settings.json.schema.catalog" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.calc2">
+    <configuration name="aula 110" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/objeto" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/objeto/aula 110.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula143" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interface/aula143.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="calc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="calc2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calc2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/banco" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/banco/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.calc2" />
+        <item itemvalue="Python.calc" />
+        <item itemvalue="Python.aula143" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.aula 110" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63ec39a0-1fb0-4530-881f-20688380936c" name="Default Changelist" comment="" />
+      <created>1584399263731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584399263731</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="556" y="24" width="800" height="675" key="#Inspections" timestamp="1588810831744">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="556" y="24" width="800" height="675" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1588810831744" />
+    <state x="278" y="25" width="800" height="675" key="#Servers" timestamp="1584399356133">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="278" y="25" width="800" height="675" key="#Servers/0.0.1366.728@0.0.1366.728" timestamp="1584399356133" />
+    <state x="141" y="22" width="1084" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584399799840">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="141" y="22" width="1084" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584399799840" />
+    <state x="738" y="0" width="476" height="726" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1588205981107">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="738" y="0" width="476" height="726" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1588205981107" />
+    <state x="460" y="161" width="436" height="403" key="#org.intellij.plugins.intelliLang.inject.config.ui.BaseInjectionDialog" timestamp="1587514070114">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="460" y="161" width="436" height="403" key="#org.intellij.plugins.intelliLang.inject.config.ui.BaseInjectionDialog/0.0.1366.728@0.0.1366.728" timestamp="1587514070114" />
+    <state x="466" y="122" width="458" height="482" key="FileChooserDialogImpl" timestamp="1588818063446">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="466" y="122" width="458" height="482" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588818063446" />
+    <state width="632" height="81" key="GridCell.Tab.0.bottom" timestamp="1588821019373">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="632" height="81" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588821019373" />
+    <state width="632" height="81" key="GridCell.Tab.0.center" timestamp="1588821019372">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="632" height="81" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588821019372" />
+    <state width="632" height="81" key="GridCell.Tab.0.left" timestamp="1588821019372">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="632" height="81" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588821019372" />
+    <state width="632" height="81" key="GridCell.Tab.0.right" timestamp="1588821019373">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="632" height="81" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588821019373" />
+    <state width="717" height="212" key="GridCell.Tab.1.bottom" timestamp="1588207560176">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="717" height="212" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588207560176" />
+    <state width="717" height="212" key="GridCell.Tab.1.center" timestamp="1588207560175">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="717" height="212" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1588207560175" />
+    <state width="717" height="212" key="GridCell.Tab.1.left" timestamp="1588207560175">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="717" height="212" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1588207560175" />
+    <state width="717" height="212" key="GridCell.Tab.1.right" timestamp="1588207560175">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="717" height="212" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588207560175" />
+    <state x="187" y="0" key="SettingsEditor" timestamp="1587514206500">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="187" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587514206500" />
+    <state x="397" y="112" key="com.intellij.ide.util.TipDialog" timestamp="1584400149691">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="397" y="112" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584400149691" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1586822509211">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1586822509211" />
+  </component>
+</project>
